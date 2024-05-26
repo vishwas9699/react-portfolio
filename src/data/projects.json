@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Gym Registration App",
+    "imageSrc": "projects/GymRegistationPreview.png",
+    "description": "This App is to Manage Gym Registartions. It Includes Create User Profile,View User Data, Update the Existing Data, Delete the Details (CRUD)",
+    "skills": ["Angular", "Material UI", "DB JSON"],
+    "demo": "https://gymregistrationapp.onrender.com",
+    "source": "https://github.com/vishwas9699/GymRegistrationApp"
+  }
+]
