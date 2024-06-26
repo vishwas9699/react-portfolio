@@ -16,7 +16,7 @@ export const Hero = () => {
           Contact Me 
         </a>
         <a href="https://docs.google.com/document/d/1WTivfBtZgLVy0c5f3QqdkMDvuEc0Gv0l/edit?usp=sharing&ouid=105349023939445786789&rtpof=true&sd=true" className={styles.resumeBtn}>
-          View My CV
+          Download CV
         </a>
         
       </div>
