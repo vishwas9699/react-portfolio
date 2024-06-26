@@ -15,8 +15,8 @@ export const Hero = () => {
         <a href="mailto:vvishwas179@gmail.com" className={styles.contactBtn}>
           Contact Me 
         </a>
-        <a href="https://drive.google.com/file/d/1VvSwOiXy_y8LoDV4EFx9-njYVz3wmklW/view?usp=sharing" className={styles.resumeBtn}>
-          Download CV
+        <a href="https://docs.google.com/document/d/1WTivfBtZgLVy0c5f3QqdkMDvuEc0Gv0l/edit?usp=sharing&ouid=105349023939445786789&rtpof=true&sd=true" className={styles.resumeBtn}>
+          View My CV
         </a>
         
       </div>
